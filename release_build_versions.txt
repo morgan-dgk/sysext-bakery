@@ -28,6 +28,7 @@ containerd 1.7.29
 containerd latest
 
 crio latest
+crowdsec-firewall-bouncer latest
 
 docker-buildx 0.25.0
 docker-buildx latest
